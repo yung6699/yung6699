@@ -1,5 +1,12 @@
 ### Frontend Engineer
 
+### Interest
+
+- Vue
+- React
+- Typescript
+- Node.js
+
 <!--
 **yung6699/yung6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
